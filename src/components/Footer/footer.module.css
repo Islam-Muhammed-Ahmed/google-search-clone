@@ -1,0 +1,22 @@
+:root {
+    --main-footer__color: rgb(212, 209, 209);
+}
+
+.country {
+    color: var(--main-footer__color);
+    font-size: 1.2rem;
+}
+
+.divider {
+    color: var(--main-footer__color);
+}
+
+.color{
+    color: var(--main-footer__color) !important;
+    font-size: .9rem;
+}
+
+.color:hover{
+    text-decoration: underline;
+    color: rgb(255, 253, 253) !important;
+}

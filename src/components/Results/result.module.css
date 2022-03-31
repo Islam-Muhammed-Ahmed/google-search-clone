@@ -1,0 +1,13 @@
+.firstPara {
+    font-size: 1.2rem;
+}
+
+
+.secondPara {
+    font-size: 1.4rem;
+}
+
+
+.mainContainer{
+    overflow: auto;
+}
